@@ -13,4 +13,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+commands: git status
+            git diff     to see the changes made
+            git add .
+            git commit -m "mesage"
+            git checkout         to go to any branch or create a new one"
+            git -h     for help 
+            ls     to list all the files
+            cd     change directory 
+            ..     previous directory 
+            .      current directory
+            git push origin <branch name>    to push the commmited git to a branch
+            git pull 
 -->
