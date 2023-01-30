@@ -1,6 +1,6 @@
-<img align='right' src='https://64.media.tumblr.com/580ff5e5d8fe4c789608372fb28604e4/tumblr_pb3lb40nPW1ukqz3ao1_540.gifv' width='220'>
+<img align='right' src='https://64.media.tumblr.com/580ff5e5d8fe4c789608372fb28604e4/tumblr_pb3lb40nPW1ukqz3ao1_540.gifv' width='300'>
 
-# <img align = left src="https://media4.giphy.com/media/UQ1EI1ML2ABQdbebup/giphy.gif?cid=ecf05e473vj1ez80bsry2izqdcw8dxndi16ndgp6cc846rte&rid=giphy.gif&ct=s" width = 45 />&nbsp; **Hey there!**
+# <img align = left src="https://media4.giphy.com/media/UQ1EI1ML2ABQdbebup/giphy.gif?cid=ecf05e473vj1ez80bsry2izqdcw8dxndi16ndgp6cc846rte&rid=giphy.gif&ct=s" width = 55 />&nbsp; **Hey there!**
 
 <br>
 
