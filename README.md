@@ -40,9 +40,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
 </p>
+<br>
 
 ## **🕺 Here's what I'm Listening to right now!**
 
+<br>
+
 <p align="left">
-  <img width=270" src="https://spotify-github-profile.vercel.app/api/view?uid=mwmh6x6xokxjschv3d3po5uw1&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&bar_color=53b14f&bar_color_cover=false">
+  <img width=300 src="https://spotify-github-profile.vercel.app/api/view?uid=mwmh6x6xokxjschv3d3po5uw1&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&bar_color=53b14f&bar_color_cover=false">
 </p>
