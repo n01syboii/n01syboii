@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-commands: git status
+commands:   git status
             git diff     to see the changes made
             git add .
             git commit -m "mesage"
