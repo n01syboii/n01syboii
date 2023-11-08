@@ -6,29 +6,29 @@
 
 <br>
 
-###My name is Jesty Jacob and I'm a Second year Undergrad Student [@UAEU](https://www.uaeu.ac.ae/en/) studying computer science. Currently living in Abu Dhabi, UAE.
+My name is Jesty Jacob and I'm a Second year undergraduate student [@UAEU](https://www.uaeu.ac.ae/en/) studying computer science. Currently living in Abu Dhabi, UAE.
 
 <br>
 
 <img align='right' src='https://64.media.tumblr.com/580ff5e5d8fe4c789608372fb28604e4/tumblr_pb3lb40nPW1ukqz3ao1_540.gifv' width='300'>
 
-## **⚡My Hobbies and Passions.**
+ **⚡My Hobbies and Passions.**
 
-### <li> 📸 Photography.</li>
+<li> 📸 Photography.</li>
 
-### <li> 🐦MY BIRDS!</li>
+<li> 🐦MY BIRDS!</li>
 
-### <li> 🏎️ Cars.</li>
+<li> 🏎️ Cars.</li>
 
-### <li> ✏️ Casual Drawing.</li>
+<li> ✏️ Casual Drawing.</li>
 
-### <li> 🏀 Sports.</li>
+<li> 🏀 Sports.</li>
 
-### <li> 🎵 Music.</li>
+<li> 🎵 Music.</li>
 
 <br>
 
-## **🚀 Stuff I've worked with.**
+**🚀 Stuff I've worked with.**
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
@@ -44,7 +44,7 @@
 </p>
 <br>
 
-## **🕺 Here's what I'm Listening to right now!**
+**🕺 Here's what I'm Listening to right now!**
 
 <p align="left">
   <img width=300 src="https://spotify-github-profile.vercel.app/api/view?uid=mwmh6x6xokxjschv3d3po5uw1&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&bar_color=53b14f&bar_color_cover=false">
