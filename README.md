@@ -51,7 +51,10 @@ My name is Jesty Jacob and I'm a Second year undergraduate student [@UAEU](https
 <br>
 
 **🕺 Here's what I'm Listening to right now!**
+<br>
 
 <p align="left">
   <img width=300 src="https://spotify-github-profile.vercel.app/api/view?uid=mwmh6x6xokxjschv3d3po5uw1&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&bar_color=53b14f&bar_color_cover=false">
 </p>
+
+<br>
