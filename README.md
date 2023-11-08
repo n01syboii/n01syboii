@@ -1,4 +1,4 @@
-<h1><img align = left src="https://media0.giphy.com/media/XUW0Q2r7yhTUJiMIHd/giphy.gif?cid=790b7611101ea743a396460c4dda2aec9ae90d99af7335d9&rid=giphy.gif&ct=s" width = 150 />&nbsp; &nbsp;**Hey there!**</h1>
+<h1><img align = left src="https://media0.giphy.com/media/XUW0Q2r7yhTUJiMIHd/giphy.gif?cid=790b7611101ea743a396460c4dda2aec9ae90d99af7335d9&rid=giphy.gif&ct=s" width = 150 />&nbsp; &nbsp;Hey there!</h1>
 
 <br>
 
@@ -16,7 +16,7 @@ My name is Jesty Jacob and I'm a Second year undergraduate student [@UAEU](https
 
 <img align='right' src='https://64.media.tumblr.com/580ff5e5d8fe4c789608372fb28604e4/tumblr_pb3lb40nPW1ukqz3ao1_540.gifv' width='300'>
 
-<h2> **⚡My Hobbies and Passions.**</h2>
+<h2> ⚡My Hobbies and Passions </h2>
 <br>
 
 <li> 📸 Photography.</li>
@@ -33,7 +33,7 @@ My name is Jesty Jacob and I'm a Second year undergraduate student [@UAEU](https
 
 <br>
 
-<h2>**🚀 Stuff I've worked with.**</h2>
+<h2> 🚀 Stuff I've worked with </h2>
 
 <br>
 <p align="left">
@@ -50,7 +50,7 @@ My name is Jesty Jacob and I'm a Second year undergraduate student [@UAEU](https
 </p>
 <br>
 
-**🕺 Here's what I'm Listening to right now!**
+<h2> 🕺 Here's what I'm Listening to right now! </h2>
 <br>
 
 <p align="left">
