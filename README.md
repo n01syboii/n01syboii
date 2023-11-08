@@ -16,7 +16,7 @@ My name is Jesty Jacob and I'm a Second year undergraduate student [@UAEU](https
 
 <img align='right' src='https://64.media.tumblr.com/580ff5e5d8fe4c789608372fb28604e4/tumblr_pb3lb40nPW1ukqz3ao1_540.gifv' width='300'>
 
-<h2> **⚡My Hobbies and Passions.**</h2>
+<h2> ⚡My Hobbies and Passions </h2>
 <br>
 
 <li> 📸 Photography.</li>
@@ -33,7 +33,7 @@ My name is Jesty Jacob and I'm a Second year undergraduate student [@UAEU](https
 
 <br>
 
-<h2>**🚀 Stuff I've worked with.**</h2>
+<h2> 🚀 Stuff I've worked with </h2>
 
 <br>
 <p align="left">
@@ -50,7 +50,7 @@ My name is Jesty Jacob and I'm a Second year undergraduate student [@UAEU](https
 </p>
 <br>
 
-**🕺 Here's what I'm Listening to right now!**
+<h2> 🕺 Here's what I'm Listening to right now! <h2>
 
 <p align="left">
   <img width=300 src="https://spotify-github-profile.vercel.app/api/view?uid=mwmh6x6xokxjschv3d3po5uw1&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&bar_color=53b14f&bar_color_cover=false">
