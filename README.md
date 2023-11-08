@@ -6,7 +6,7 @@
 
 <br>
 
-### My name is Jesty Jacob and I'm a Second year Undergrad Student [@UAEU](https://www.uaeu.ac.ae/en/) studying computer science. Currently living in Abu Dhabi, UAE.
+My name is Jesty Jacob and I'm a Second year Undergrad Student [@UAEU](https://www.uaeu.ac.ae/en/) studying computer science. Currently living in Abu Dhabi, UAE.
 
 <br>
 
