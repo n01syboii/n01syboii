@@ -10,7 +10,7 @@
 
 <br>
   
-My name is Jesty Jacob and I'm a Senior year undergraduate student [@UAEU](https://www.uaeu.ac.ae/en/) studying computer science. Currently living in Abu Dhabi, UAE.
+My name is Jesty Jacob and I'm a senior undergraduate student [@UAEU](https://www.uaeu.ac.ae/en/) studying computer science. Currently living in Abu Dhabi, UAE.
 
 <br>
 
